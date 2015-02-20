@@ -11,7 +11,7 @@ and [Bootstrap](http://http://getbootstrap.com/).
 Usage
 -----
 
-Open the `address_book.html` file in a web browser.
+Open the `to-do-relational.html` file in a web browser.
 
 
 Author
